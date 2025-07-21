@@ -74,5 +74,5 @@ Built an interactive Power BI dashboard to visualize product sales and trends.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername)
 - 📧 Email: your.email@example.com  
-- 🖥️ [GitHub](https://github.com/PrinceYadav)
+- 🖥️ [GitHub]([https://github.com/PrinceYadav])
 
