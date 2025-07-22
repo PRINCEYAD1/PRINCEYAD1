@@ -1,79 +1,82 @@
-<h1 align="center">👋 Hi there, I'm Prince Yadav!</h1>
+<h1 align="center">Hi 👋, I'm Prince Yadav</h1>
+<h3 align="center">Aspiring Data Analyst | Python Developer | SQL & Power BI Enthusiast</h3>
 
 <p align="center">
-  <b>Aspiring Data Analyst | Python Developer | SQL & Power BI Enthusiast</b><br>
-  Turning data into decisions with dashboards, queries, and code.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A8FBC&center=true&vCenter=true&width=435&lines=Turning+data+into+insights...;SQL+%7C+Python+%7C+Power+BI+%7C+Azure+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrinceYadav&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceYadav" />
-  <img src="https://img.shields.io/github/followers/PrinceYadav?label=Follow&style=social" alt="GitHub Followers" />
-</p>
+## 🚀 Technologies & Tools
 
----
+**Languages & Libraries:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C5CAA?style=for-the-badge)
 
-## 🚀 Skills & Tools
-
-**Languages & Tools:**  
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoCo
-
-</p>
+**BI Tools & Cloud:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
 ## 🧩 Projects
 
-### 🍕 Pizza Sales Analysis
-Analyzed sales performance and customer behavior using MySQL  
-📊 Dashboard: Power BI  
-📸  
-<img src="https://raw.githubusercontent.com/PRINCEYAD1/Pizza_Sales_Analysis/main/images/pizza_dashboard.png" width="600"/>
+### 📌 Pizza Sales Analysis  
+🔹 MySQL + Power BI  
+🔹 Uncovered peak hours, popular pizzas, and sales trends  
+![Pizza Dashboard](https://github.com/PRINCEYAD1/Pizza_Sales_Analysis/blob/main/pizza_dashboard.png?raw=true)
 
-### 📱 Play Store Data Analysis
-Cleaned and analyzed app data to extract trends using SQL & Python.
+---
 
-### 🛒 Blinkit Sales Dashboard
-Built an interactive Power BI dashboard to visualize product sales and trends.
+### 📌 Play Store Data Analysis  
+🔹 SQL + Python  
+🔹 Cleaned and analyzed app data for category-wise trends and ratings
+
+---
+
+### 📌 Blinkit Sales Dashboard  
+🔹 Power BI  
+🔹 Created real-time product performance dashboard
+
+---
+
+## 📚 Currently Learning
+
+- 📘 DAX for Power BI
+- ☁️ Azure fundamentals
+- 📊 Tableau dashboards
+- 🧮 Advanced SQL Queries
+- 🐍 Python for automation and analytics
+
+---
+
+## 🎯 Future Goals
+
+- Land a role as a **Data Analyst / BI Developer**  
+- Build a data science portfolio  
+- Learn cloud-based analytics tools  
+- Teach and share via YouTube or blogging
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/PrinceYadav)
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceYadav&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceYadav&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceYadav&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceYadav&theme=tokyonight" width="48%"/>
 </p>
 
----
-
-## 📚 Currently Learning
-
-- DAX in Power BI
-- Advanced SQL Techniques
-- Python for Data Analysis and Backend
-- Storytelling with Data
-
----
-
-## 🎯 Career Goals (Next 2–3 Years)
-
-- 👨‍💻 Work as a Data Analyst or Backend Developer  
-- 🚀 Continuously upskill in tools & tech  
-- ☁️ Learn cloud platforms (Azure, AWS)  
-- 📢 Start a blog/YouTube for data storytelling
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername)
-- 📧 Email: your.email@example.com  
-- 🖥️ [GitHub]([https://github.com/PrinceYadav])
 
