@@ -65,7 +65,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/princeyadav58)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([https://github.com/PrinceYadav](https://github.com/PRINCEYAD1))
 [![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:your.princeyadav05082001@gmail.com)
 
