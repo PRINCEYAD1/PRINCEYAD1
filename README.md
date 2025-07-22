@@ -26,20 +26,20 @@
 
 ## 🧩 Projects
 
-### 📌 Pizza Sales Analysis  
+### 📌 [Pizza Sales Analysis](https://github.com/PRINCEYAD1/Pizza_Sales_Analysis)  
 🔹 MySQL + Power BI  
 🔹 Uncovered peak hours, popular pizzas, and sales trends  
 ![Pizza Dashboard](https://github.com/PRINCEYAD1/Pizza_Sales_Analysis/blob/main/pizza_dashboard.png?raw=true)
 
 ---
 
-### 📌 Play Store Data Analysis  
+### 📌 [Play Store Data Analysis](https://github.com/PRINCEYAD1/playstore-sql-case-study)  
 🔹 SQL + Python  
 🔹 Cleaned and analyzed app data for category-wise trends and ratings
 
 ---
 
-### 📌 Blinkit Sales Dashboard  
+### 📌 [Blinkit Sales Dashboard](https://github.com/PRINCEYAD1/Blinkit_MYSQL_Project)  
 🔹 Power BI  
 🔹 Created real-time product performance dashboard
 
@@ -78,5 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PrinceYadav&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceYadav&theme=tokyonight" width="48%"/>
 </p>
-
 
