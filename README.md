@@ -56,7 +56,7 @@
 
 ## 🎯 Future Goals
 
-- Land a role as a **Data Analyst / BI Developer**  
+- Land a role as a **Data Analyst / BI Developer / SQL Developer**  
 - Build a data science portfolio  
 - Learn cloud-based analytics tools  
 - Teach and share via YouTube or blogging
@@ -66,8 +66,8 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/PrinceYadav)
-[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([https://github.com/PrinceYadav](https://github.com/PRINCEYAD1))
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:your.princeyadav05082001@gmail.com)
 
 ---
 
