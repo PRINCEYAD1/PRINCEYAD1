@@ -29,7 +29,6 @@
 ### 📌 [Pizza Sales Analysis](https://github.com/PRINCEYAD1/Pizza_Sales_Analysis)  
 🔹 MySQL + Power BI  
 🔹 Uncovered peak hours, popular pizzas, and sales trends  
-![Pizza Dashboard](https://github.com/PRINCEYAD1/Pizza_Sales_Analysis/blob/main/pizza_dashboard.png?raw=true)
 
 ---
 
