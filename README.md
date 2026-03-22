@@ -40,7 +40,7 @@
 
 ### 📌 [Blinkit Sales Dashboard](https://github.com/PRINCEYAD1/Blinkit_MYSQL_Project)  
 🔹 Power BI  
-🔹 Created real-time product performance dashboard
+🔹 Created a real-time product performance dashboard
 
 ---
 
@@ -51,15 +51,6 @@
 - 📊 Tableau dashboards
 - 🧮 Advanced SQL Queries
 - 🐍 Python for automation and analytics
-
----
-
-## 🎯 Future Goals
-
-- Land a role as a **Data Analyst / BI Developer / SQL Developer**  
-- Build a data science portfolio  
-- Learn cloud-based analytics tools  
-- Teach and share via YouTube or blogging
 
 ---
 
